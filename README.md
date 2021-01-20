@@ -1,16 +1,11 @@
 # random_quote
 
-A new Flutter project.
+A new Flutter project to display a random quote.  
 
-## Getting Started
+To get new quote preform Hot Restart.
 
-This project is a starting point for a Flutter application.
+This project is a tutorial from a Medium.com article.
+https://medium.com/flutter-community/flutter-essential-what-you-need-to-know-567ad25dcd8f
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Used different API for random quote.
+https://api.quotable.io/random
